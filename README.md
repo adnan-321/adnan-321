@@ -15,4 +15,4 @@ I'm an Information Technology student who is passionate about writing code, solv
       [LeetCode](https://leetcode.com/Shaik_Abdullah_Adnan/)
 - <a href="https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/">
   <img align="left" alt="Adnan's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a> <a href="https://www.facebook.com/shaikabdullahadnan"> <img align="left" alt="Adnan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> <a href="https://www.instagram.com/shaik_abdullah_adnan/"> <img align="left" alt="Adnan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> </a>
