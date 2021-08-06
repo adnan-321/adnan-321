@@ -5,5 +5,7 @@
 I'm an Information Technology student who is passionate about writing code, solving problems, learning new technologies, and building software.
 
 - 🔭 I’m currently an IT student at [Chaitanya Bharathi Institute of Technology](https://www.cbit.ac.in/).
-- 📚 Learning full stack web development using MERN stack.
+- 📚 Learning full stack web development, cloud computing and other technologies. One drop of water into the ocean of knowledge every day.
+- 👨‍💻 A competitive programmer, addicted to solving problems using data structures and algorithms. My coding profile on online platforms :
+      [Hackerrank](https://www.hackerrank.com/shaikabdullahad1) [Codechef](https://www.codechef.com/users/abdullahadnan) [Codeforces](https://codeforces.com/profile/shaikabdullahadnan) [InterviewBit](https://www.interviewbit.com/profile/abdullah-adnan)
 - 📫 You can reach me out here as well: [Linkedin](https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/) [Gmail](mailto:shaikabdullahadnan@gmail.com) [Facebook](https://www.facebook.com/shaikabdullahadnan)
