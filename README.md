@@ -6,4 +6,4 @@ I'm an Information Technology student who is passionate about writing code, solv
 
 - 🔭 I’m currently an IT student at Chaitanya Bharathi Institute of Technology (CBIT).
 - 📚 Learning full stack web development using MERN stack.
-- 📫 You can reach me out here as well: [Linkedin](https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/) [Gmail](mailto:shaikabdullahadnan@gmail.com)
+- 📫 You can reach me out here as well: [Linkedin](https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/) [Gmail](mailto:shaikabdullahadnan@gmail.com) [Facebook](https://www.facebook.com/shaikabdullahadnan)
