@@ -14,3 +14,10 @@ I'm an Information Technology student who is passionate about writing code, solv
       [InterviewBit](https://www.interviewbit.com/profile/abdullah-adnan) 
       [LeetCode](https://leetcode.com/Shaik_Abdullah_Adnan/)
 - 📫 You can reach me out here as well: [Linkedin](https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/) [Gmail](mailto:shaikabdullahadnan@gmail.com) [Facebook](https://www.facebook.com/shaikabdullahadnan)
+<a href="https://www.linkedin.com/in/mehdimabrouki/">
+  <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/mehdi.mabrouki1">
+  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+
