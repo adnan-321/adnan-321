@@ -8,5 +8,8 @@ I'm an Information Technology student who is passionate about writing code, solv
 - 📚 Learning full stack web development, cloud computing and other technologies. One drop of water into the ocean of knowledge every day.
 - 👨‍💻 A competitive programmer, addicted to solving problems using data structures and algorithms. 
       My coding profile on online platforms :
-      [Hackerrank](https://www.hackerrank.com/shaikabdullahad1) [Codechef](https://www.codechef.com/users/abdullahadnan) [Codeforces](https://codeforces.com/profile/shaikabdullahadnan) [InterviewBit](https://www.interviewbit.com/profile/abdullah-adnan) [LeetCode](https://leetcode.com/Shaik_Abdullah_Adnan/)
+      <a href="https://www.hackerrank.com/shaikabdullahad1"> 
+      <img align="left" alt="Adnan's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+[Codechef](https://www.codechef.com/users/abdullahadnan) [Codeforces](https://codeforces.com/profile/shaikabdullahadnan) [InterviewBit](https://www.interviewbit.com/profile/abdullah-adnan) [LeetCode](https://leetcode.com/Shaik_Abdullah_Adnan/)
 - 📫 You can reach me out here as well: [Linkedin](https://www.linkedin.com/in/abdullah-adnan-2a37a41ab/) [Gmail](mailto:shaikabdullahadnan@gmail.com) [Facebook](https://www.facebook.com/shaikabdullahadnan)
